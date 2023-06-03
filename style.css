@@ -1,3 +1,7 @@
-p#face {
-    font-size: 12rem;
+.text-responsive {
+    font-size: min(calc(100% + 40vw), 16rem);
+}
+
+.card {
+    max-width: 40rem;
 }
