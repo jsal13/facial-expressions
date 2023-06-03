@@ -1,2 +1,3 @@
-# facial_expression_app
+# Facial Expressions App
+
 App giving flashcards for facial expressions (used for acting or whatever).
